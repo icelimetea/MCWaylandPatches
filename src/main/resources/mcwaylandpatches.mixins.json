@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.limetea.mcpatches.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [
+    "WindowMixin",
+    "GLXMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
