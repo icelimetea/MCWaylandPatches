@@ -1,6 +1,6 @@
 # Some MC patches
 
-### *This mod is nothing more than an experiment.*
+### **This mod is nothing more than an experiment.**
 
 A very dumb try to launch Minecraft under native Wayland.
 
